@@ -87,5 +87,8 @@
 </a>
 </p>
 </p>
-
+## 🎯 LeetCode Stats & DSA
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/asad-ullah-234?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
+</div>
 
