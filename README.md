@@ -68,7 +68,7 @@
 <div align="center">
    <a href="https://leetcode.com/u/Aqsa-abbasi26/">
    <img src="https://upload.vectorlogo.zone/logos/leetcode/images/1f27e737-4847-49da-80b2-eb08dbd3467f.svg" width="40" height="40"/></a>
-   <a href="https://www.linkedin.com/in/aqsa-abbasi-61b01b309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+   <a href="https://www.linkedin.com/in/aqsa-abbasi-441444372/">
    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 </div>
 
