@@ -1,4 +1,4 @@
-name: Daily Commit to Maintain Streak
+name: Daily Commit to Maintain Streak (Emoji Version)
 
 on:
   schedule:
@@ -16,11 +16,18 @@ jobs:
       - name: Configure Git
         run: |
           git config user.name "Aqsaabbasi2690"
-          git config user.email "aqsaabbasi2690@gmail.com"
+          git config user.email "your_email@example.com"
 
-      - name: Make daily commit
+      - name: Make daily commit with rotating emoji
         run: |
-          echo "Streak updated on $(date)" >> streak-log.txt
+          # List of emojis (you can add/remove any)
+          EMOJIS=("🔥" "✨" "🚀" "🌙" "💫" "🌟" "🎯" "💥" "⚡" "🌈" "🎉" "🔥" "📅" "📝" "🌸" "🩷" "🌿" "✨" "🫶" "🌙" "💗" "🍰" "🕊️" "🌼" "🎀" "🩵" "🌱" "🪽" "💐")
+
+          # Pick emoji based on day of year
+          INDEX=$(date +%j)
+          EMOJI=${EMOJIS[$((INDEX % ${#EMOJIS[@]}))]}
+
+          echo "Streak updated on $(date) $EMOJI" >> streak-log.txt
           git add streak-log.txt
-          git commit -m "🔥 Auto-commit to keep streak alive"
+          git commit -m "$EMOJI Auto-commit to keep streak alive"
           git push
