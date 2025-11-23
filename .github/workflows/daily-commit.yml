@@ -2,8 +2,11 @@ name: Daily Commit to Maintain Streak
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Every day at 12:00 AM UTC (5 AM Pakistan time)
+    - cron: "0 0 * * *"  # Runs every day at 12 AM UTC (5 AM Pakistan)
   workflow_dispatch:
+
+permissions:
+  contents: write      # REQUIRED so Action can push commits
 
 jobs:
   auto-commit:
@@ -12,12 +15,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate daily commit
+      - name: Make Daily Commit
         run: |
-          echo "Streak protection log: $(date)" >> streak-log.txt
-          git config user.name "Aqsa Abbasi"
-          git config user.email "aqsaabbasi2690@gmail.com"
+          echo "Streak Log: $(date)" >> streak-log.txt
+          git config --global user.email "aqsaabbasi2690@gmail.com"
+          git config --global user.name "Aqsa Abbasi"
           git add streak-log.txt
-          git commit -m "🔥 Daily automated commit to keep GitHub streak alive"
+          git commit -m "🔥 Keeping streak alive — $(date)"
           git push
