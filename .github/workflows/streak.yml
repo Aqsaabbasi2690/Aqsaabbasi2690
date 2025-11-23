@@ -16,7 +16,7 @@ jobs:
       - name: Configure Git
         run: |
           git config user.name "Aqsaabbasi2690"
-          git config user.email "your_email@example.com"
+          git config user.email "aqsaabbasi2690@gmail.com"
 
       - name: Make daily commit with rotating emoji
         run: |
