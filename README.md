@@ -1,76 +1,144 @@
-<a href="https://github.com/Aqsaabbasi2690">
-    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Aqsaabbasi2690&data=followers,repositories,stars,commits&theme=nautilus">
-</a>
+<h1 align="center">Hi 👋, I'm Aqsa Abbasi</h1>
+<h3 align="center">AI & Machine Learning Engineer | Deep Learning & Computer Vision | Research-Oriented AI Practitioner</h3>
+
+<p align="center">
+  <a href="https://github.com/Aqsaabbasi2690">
+    <img src="https://komarev.com/ghpvc/?username=Aqsaabbasi2690&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 Transitioned from **English Literature & Linguistics** to **Artificial Intelligence & Machine Learning**  
+🧠 Strong foundation in Machine Learning, Deep Learning & Mathematical Concepts  
+🤖 Passionate about building intelligent, scalable AI systems  
+👩‍🏫 2× Mentor in Generative AI Hackathons  
+👩‍💻 Python Instructor (6 Weeks) at iCodeGuru  
+✍️ Technical writer sharing ML & AI insights on <a href="https://www.linkedin.com/in/aqsa-abbasi-441444372/">LinkedIn</a>  
+🎯 Target: AI Engineer Role & Fully Funded MS in AI / Machine Learning (USA)
+
+---
+
+## 🔬 Research Interests
+
+- Deep Learning Optimization  
+- Medical Image Analysis  
+- Computer Vision Architectures  
+- Generative AI & Foundation Models  
+- NLP & Large Language Models  
+- Applied Machine Learning Systems  
+
+---
+
+## 🧠 Technical Expertise
+
+### 💻 Programming & Databases
+- Python (Advanced)
+- SQL (Intermediate)
+
+### 📊 Machine Learning
+- Supervised Learning (Regression & Classification)
+- Feature Engineering & Data Preprocessing
+- Model Evaluation (Precision, Recall, F1, ROC-AUC)
+- Cross-Validation & Bias-Variance Analysis
+- Time Series Forecasting
+- Customer Churn Modeling
+
+### 🧠 Deep Learning
+- Artificial Neural Networks (From Scratch Implementation)
+- Convolutional Neural Networks (CNNs)
+- Computer Vision Pipelines
+- TensorFlow / Keras
+- Model Optimization & Regularization Techniques
+
+### 📐 Mathematical Foundations
+- Linear Algebra for ML
+- Probability & Statistics
+- Gradient Descent & Optimization
+- Loss Functions & Backpropagation
+
+### 🛠️ Tools & Environment
+- Git & GitHub
+- VS Code / PyCharm
+- Jupyter Notebook
+- Google Colab
+- Streamlit (Model Deployment – Learning Phase)
+
+---
+
+## 📂 Featured AI & Machine Learning Projects
+
+🔹 <a href="https://github.com/Aqsaabbasi2690/California-Housing-Price-Prediction">California Housing Price Prediction</a>  
+End-to-end regression pipeline with feature engineering, model comparison & evaluation.
+
+🔹 <a href="https://github.com/Aqsaabbasi2690/-Customer-Churn-Prediction">Customer Churn Prediction</a>  
+Classification modeling with business-driven insights & performance analysis.
+
+🔹 <a href="https://github.com/Aqsaabbasi2690/Times-Series">Time Series Forecasting</a>  
+Forecasting models with evaluation metrics and trend analysis.
+
+🔹 <a href="https://github.com/Aqsaabbasi2690/CNN-Chest-X-ray-Project">CNN Chest X-ray Classification</a>  
+Deep learning-based medical image classification using Convolutional Neural Networks.
+
+🔹 <a href="https://github.com/Aqsaabbasi2690/VisionNet-FashionMNIST-CNN">VisionNet – FashionMNIST CNN</a>  
+Custom CNN architecture for image classification with performance optimization.
+
+🔹 <a href="https://github.com/Aqsaabbasi2690/neural-regression-project">Neural Regression Project</a>  
+Neural network implementation for regression with mathematical intuition.
+
+All repositories include structured documentation, methodology explanation, model evaluation, and result interpretation.
+
+---
+
+## 🏆 Achievements & Leadership
+
+- 🎤 Mentor in Generative AI Hackathons (2×)
+- 👩‍🏫 Python Instructor (6-Week Program)
+- 🧠 Participant in Coding Competitions (MIT, Advent of Code, Meta Challenges)
+- ✍️ AI & ML Technical Articles on <a href="https://www.linkedin.com/in/aqsa-abbasi-441444372/">LinkedIn</a>
+- 📚 Completed Structured ML & Deep Learning Roadmap
+
+---
+
+## 📈 Current Focus
+
+- Advanced Data Structures & Algorithms
+- Production-Ready ML Systems
+- Model Deployment & MLOps
+- Research-Oriented Deep Learning Projects
+- NLP & LLM-Based Applications
+- Scholarship & Research Preparation
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aqsaabbasi2690&show_icons=true&theme=default" alt="github stats"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: <a href="mailto:aqsaabbasi2690@gmail.com">aqsaabbasi2690@gmail.com</a>  
+💼 LinkedIn: <a href="https://www.linkedin.com/in/aqsa-abbasi-441444372/">Aqsa Abbasi</a>  
+🧠 LeetCode: <a href="https://leetcode.com/u/Aqsa-abbasi26/">Aqsa-abbasi26</a>  
+🐙 GitHub: <a href="https://github.com/Aqsaabbasi2690">Aqsaabbasi2690</a>
+
+---
+
+<p align="center">
+  ⚡ "Engineering intelligent systems with mathematical rigor to solve real-world problems."
+</p>
 
 
-<h1>Hello,I am Aqsa Abbasi</h1>
-- 💻 Currently working as MERN Stack Engineer. <br/>
-- 🚀 Actively participating in coding competitions & hackathons.  <br/>     
-- 📩 How to reach me: <a href="mailto:aqsaabbasi2690@gmail.com">Email</a>
-
- <br/>  
-- 📞 Don't hesitate to reach out & let's connect and start a conversation.<br/>
-- 💻 Typing speed More than 50WPM.
 
 
-
-# My Skill Set🛠️:
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### Frontend
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui&perline=4" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### Backend
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,nodejs,express,mongodb&perline=4" />
-</div>
-
-</td>
-<td valign="top" width="33%">
  
-### Code Editors
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm&perline=3" />
-</div>
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-### Languages
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=js,python&perline=4" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### Others
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vite,postman,discord,vscode,vercel,npm&perline=4" />
-</div>
-
-</td>
-</td>
-</tr>
-</table>
- 
-# Connect With Me
-<div align="center">
-   <a href="https://leetcode.com/u/Aqsa-abbasi26/">
-   <img src="https://upload.vectorlogo.zone/logos/leetcode/images/1f27e737-4847-49da-80b2-eb08dbd3467f.svg" width="40" height="40"/></a>
-   <a href="https://www.linkedin.com/in/aqsa-abbasi-441444372/">
-   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-</div>
 
 
 
@@ -99,9 +167,7 @@
 </a>
 </p>
 </p> -->
-
-## 🎯 LeetCode Stats & DSA
-<div align="center">
+<!-- <div align="center">
   <img src="https://leetcard.jacoblin.cool/Aqsa-abbasi26?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
-</div>
+</div>  -->
 
