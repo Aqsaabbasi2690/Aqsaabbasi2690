@@ -17,7 +17,6 @@
 👩‍🏫 2× Mentor in Generative AI Hackathons  
 👩‍💻 Python Instructor (6 Weeks) at iCodeGuru  
 ✍️ Technical writer sharing ML & AI insights on <a href="https://www.linkedin.com/in/aqsa-abbasi-441444372/">LinkedIn</a>  
-🎯 Target: AI Engineer Role & Fully Funded MS in AI / Machine Learning (USA)
 
 ---
 
@@ -27,7 +26,6 @@
 - Medical Image Analysis  
 - Computer Vision Architectures  
 - Generative AI & Foundation Models  
-- NLP & Large Language Models  
 - Applied Machine Learning Systems  
 
 ---
@@ -36,7 +34,6 @@
 
 ### 💻 Programming & Databases
 - Python (Advanced)
-- SQL (Intermediate)
 
 ### 📊 Machine Learning
 - Supervised Learning (Regression & Classification)
@@ -144,7 +141,7 @@ All repositories include structured documentation, methodology explanation, mode
 
 # Github Stats
 
-<p align="center">
+<!-- <p align="center">
 
  <a href="https://github.com/Aqsaabbasi2690">
 <img  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aqsaabbasi2690&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> 
@@ -156,7 +153,7 @@ All repositories include structured documentation, methodology explanation, mode
  <a href="https://github.com/Aqsaabbasi2690"> 
  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aqsaabbasi2690&theme=algolia&hide_border=true" /> 
  </a> 
- </p>
+ </p> -->
 <!--   <a href="https://github.com/Aqsaabbasi2690">
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aqsaabbasi2690&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aqsaabbasi2690&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
