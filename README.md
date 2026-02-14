@@ -115,7 +115,7 @@ All repositories include structured documentation, methodology explanation, mode
  <a href="https://github.com/Aqsaabbasi2690"> 
  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aqsaabbasi2690&theme=algolia&hide_border=true" /> 
  </a> 
- </p> -->
+ </p> 
 ---
 
 ## 📫 Connect With Me
@@ -126,8 +126,6 @@ All repositories include structured documentation, methodology explanation, mode
 🐙 GitHub: <a href="https://github.com/Aqsaabbasi2690">Aqsaabbasi2690</a>
 
 ---
-
-# Github Stats
 
 <!-- <p align="center">
 
