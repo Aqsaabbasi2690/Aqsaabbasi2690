@@ -56,6 +56,17 @@
 - Gradient Descent & Optimization
 - Loss Functions & Backpropagation
 
+
+## 🧭 Core Strengths
+
+- Strong analytical and structured problem-solving mindset  
+- Research-oriented approach to model design and evaluation  
+- Ability to teach complex technical concepts clearly  
+- Self-driven learner with rapid domain transition  
+- Long-term commitment to AI specialization  
+
+---
+
 ### 🛠️ Tools & Environment
 - Git & GitHub
 - VS Code / PyCharm
@@ -104,6 +115,16 @@ All repositories include structured documentation, methodology explanation, mode
 - Production-Ready ML Systems
 - Model Deployment & MLOps
 - Research-Oriented Deep Learning Projects
+---
+
+
+## 🤝 Open To
+
+- AI / ML Engineering Roles (Remote or On-site)  
+- Research Assistantships  
+- AI Internships  
+- Collaborative AI Projects  
+
 ---
 
 ## 📊 GitHub Stats
