@@ -95,19 +95,15 @@ All repositories include structured documentation, methodology explanation, mode
 - 👩‍🏫 Python Instructor (6-Week Program)
 - 🧠 Participant in Coding Competitions (MIT, Advent of Code, Meta Challenges)
 - ✍️ AI & ML Technical Articles on <a href="https://www.linkedin.com/in/aqsa-abbasi-441444372/">LinkedIn</a>
-- 📚 Completed Structured ML & Deep Learning Roadmap
 
 ---
 
 ## 📈 Current Focus
 
-- Advanced Data Structures & Algorithms
+- Data Structures & Algorithms
 - Production-Ready ML Systems
 - Model Deployment & MLOps
 - Research-Oriented Deep Learning Projects
-- NLP & LLM-Based Applications
-- Scholarship & Research Preparation
-
 ---
 
 ## 📊 GitHub Stats
@@ -115,7 +111,11 @@ All repositories include structured documentation, methodology explanation, mode
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aqsaabbasi2690&show_icons=true&theme=default" alt="github stats"/>
 </p>
-
+ <p align="center">
+ <a href="https://github.com/Aqsaabbasi2690"> 
+ <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aqsaabbasi2690&theme=algolia&hide_border=true" /> 
+ </a> 
+ </p> -->
 ---
 
 ## 📫 Connect With Me
@@ -126,18 +126,6 @@ All repositories include structured documentation, methodology explanation, mode
 🐙 GitHub: <a href="https://github.com/Aqsaabbasi2690">Aqsaabbasi2690</a>
 
 ---
-
-<p align="center">
-  ⚡ "Engineering intelligent systems with mathematical rigor to solve real-world problems."
-</p>
-
-
-
-
- 
-
-
-
 
 # Github Stats
 
