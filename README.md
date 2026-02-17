@@ -33,7 +33,7 @@
 ## 🧠 Technical Expertise
 
 ### 💻 Programming & Databases
-- Python (Advanced)
+- Python 
 
 ### 📊 Machine Learning
 - Supervised Learning (Regression & Classification)
@@ -120,12 +120,11 @@ All repositories include structured documentation, methodology explanation, mode
 
 ## 🤝 Open To
 
-- AI / ML Engineering Roles (Remote or On-site)  
+- AI / ML Engineering Roles  
 - Research Assistantships  
 - AI Internships  
 - Collaborative AI Projects  
 
----
 
 ## 📊 GitHub Stats
 
