@@ -9,14 +9,14 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 🎓 Transitioned from **English Literature & Linguistics** to **Artificial Intelligence & Machine Learning**  
-🧠 Strong foundation in Machine Learning, Deep Learning & Mathematical Concepts  
-🤖 Passionate about building intelligent, scalable AI systems  
-👩‍🏫 2× Mentor in Generative AI Hackathons  
-👩‍💻 Python Instructor (6 Weeks) at iCodeGuru  
-✍️ Technical writer sharing ML & AI insights on <a href="https://www.linkedin.com/in/aqsa-abbasi-441444372/">LinkedIn</a>  
+ Strong foundation in Machine Learning, Deep Learning & Mathematical Concepts  
+ Passionate about building intelligent, scalable AI systems  
+ 2× Mentor in Generative AI Hackathons  
+ Python Instructor (6 Weeks) at iCodeGuru  
+ Technical writer sharing ML & AI insights on <a href="https://www.linkedin.com/in/aqsa-abbasi-441444372/">LinkedIn</a>  
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧠 Technical Expertise
+## Technical Expertise
 
 ### 💻 Programming & Databases
 - Python 
@@ -50,14 +50,14 @@
 - TensorFlow / Keras
 - Model Optimization & Regularization Techniques
 
-### 📐 Mathematical Foundations
+###  Mathematical Foundations
 - Linear Algebra for ML
 - Probability & Statistics
 - Gradient Descent & Optimization
 - Loss Functions & Backpropagation
 
 
-## 🧭 Core Strengths
+## Core Strengths
 
 - Strong analytical and structured problem-solving mindset  
 - Research-oriented approach to model design and evaluation  
@@ -67,7 +67,7 @@
 
 ---
 
-### 🛠️ Tools & Environment
+###  Tools & Environment
 - Git & GitHub
 - VS Code / PyCharm
 - Jupyter Notebook
@@ -102,10 +102,10 @@ All repositories include structured documentation, methodology explanation, mode
 
 ## 🏆 Achievements & Leadership
 
-- 🎤 Mentor in Generative AI Hackathons (2×)
-- 👩‍🏫 Python Instructor (6-Week Program)
-- 🧠 Participant in Coding Competitions (MIT, Advent of Code, Meta Challenges)
-- ✍️ AI & ML Technical Articles on <a href="https://www.linkedin.com/in/aqsa-abbasi-441444372/">LinkedIn</a>
+- Mentor in Generative AI Hackathons (2×)
+- Python Instructor (6-Week Program)
+- Participant in Coding Competitions (MIT, Advent of Code, Meta Challenges)
+- AI & ML Technical Articles on <a href="https://www.linkedin.com/in/aqsa-abbasi-441444372/">LinkedIn</a>
 
 ---
 
@@ -136,7 +136,7 @@ All repositories include structured documentation, methodology explanation, mode
  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aqsaabbasi2690&theme=algolia&hide_border=true" /> 
  </a> 
  </p> 
----
+
 
 ## 📫 Connect With Me
 
