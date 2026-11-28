@@ -1,8 +1,8 @@
-Hi 👋, I'm Aqsa Abbasi
+# Hi 👋, I'm Aqsa Abbasi
 
 NLP & Computational Linguistics | Multilingual & Low-Resource Languages (Urdu) | Linguistics → AI
 
-👩‍💻 About Me
+# 👩‍💻 About Me
 
 🎓 Graduate in English Literature & Linguistics, now working on Natural Language Processing
 🌍 Interested in language technology for Urdu and other low-resource South Asian languages
@@ -10,7 +10,7 @@ NLP & Computational Linguistics | Multilingual & Low-Resource Languages (Urdu) |
 👩‍🏫 Section Leader at Stanford Code in Place · Volunteer Python & IELTS Instructor at iCodeGuru
 Seeking funded MS/PhD positions (Fall 2028) and research assistant opportunities
 
-🔬 Research Interests
+# 🔬 Research Interests
 
 Multilingual & Low-Resource NLP
 Computational Linguistics
@@ -18,7 +18,7 @@ Text Classification & Sentiment Analysis
 Transformers & Large Language Models
 Dataset Creation & Annotation 
 
-📂 Featured Projects
+# 📂 Featured Projects
 
 🗣️ Natural Language Processing
 
@@ -39,7 +39,7 @@ Medical image classification with convolutional neural networks.
 🔹 Customer Churn Prediction
 End-to-end classification pipeline with feature engineering and evaluation.
 
-🛠️ Technical Skills
+# 🛠️ Technical Skills
 
 NLP: Hugging Face Transformers · Text Classification · Sentiment Analysis · Multilingual Models (mT5, XLM-R) · Data Annotation
 Deep Learning: PyTorch · CNNs · Transformers · Vision Transformers
@@ -47,7 +47,7 @@ Machine Learning: Scikit-learn · Pandas · NumPy · Model Evaluation
 Tools: Python · Git & GitHub · Jupyter · Google Colab · Gradio
 Linguistics: Linguistic Analysis · Annotation Guidelines · English & Urdu
 
-🏆 Teaching & Community
+# 🏆 Teaching & Community
 
 Section Leader, Stanford Code in Place
 Volunteer Python & IELTS Instructor, iCodeGuru
@@ -55,7 +55,7 @@ Mentor & Judge, Generative AI Hackathons, Pak Angels (2×)
 Participant, NASA Space Apps Challenge 2025 · CS50 Harvard Puzzle Day 2026
 Writing about AI & NLP on LinkedIn
 
-📈 Currently Working On
+# 📈 Currently Working On
 
 Transformers & the Hugging Face ecosystem
 Linear algebra for machine learning
@@ -64,4 +64,3 @@ Extending multilingual NLP models to Urdu
 📧 Email: aqsaabbasii2699@gmail.com
 💼 LinkedIn: Aqsa Abbasi
 🐙 GitHub: Aqsaabbasi2690
-
